@@ -1,5 +1,5 @@
 # phone-mask-native-js
-on click in put mask and during input JS changes '_' on digits.
+on click JS puts a mask in input, during input changes '_' on digits.
 
 ![image](https://user-images.githubusercontent.com/40038982/152413484-9aab91a2-3563-47df-8f81-20bdc641e7e6.png)
 
